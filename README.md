@@ -1,50 +1,57 @@
 # Python_Project
 Python project  for DATA Analysis.
+# Project Overview
+This sample sales analysis shows various activities in a SuperStores company :top selling products, most(highest) sales, least sales, most(highest) profits, least profits, sales trends across the states, cities, and regions.
+It shows the Year, Month, Segment, product category, sub-category, numbers of customers.
+## Project Title
+Sales Analysis of products in SuperStore.
+### Aims and Objectives
+-To Highlight sales trend over time(month, year).
+- To know the top selling product in the superstore.
+- To know the Region, state, city with the most and least sales.
+  ### Data Source
+  It is a sample sales data from a Superstore.
+  ### Tools Used
+  Microsoft Excel, Python
+  ### Treated Questions
+- What are the top selling products in the superstore?
+    
+- What is the sales trend over time (monthly, year)?
 
-   1. What are the top selling products in the superstore?
+- Which category of products generates the highest revenue and profit?
 
-``
-SuperStore = pd.read_excel('Sample - Superstore.xlsx')
+- Which region generates the most  sales?
 
-SuperStore.head()
-``
-   
-   2. What is the sales trend over time (monthly, yearly)?
+- What is the impact of discounts and promotions -on sales?
 
-   3. Which category of products generates the highest revenue and profit?
+- What is the average profit margin for each produc-t category?
 
-   4. Which region generates the most sales?
+- Which sub-category of products has the hi-ghest demand?
 
-   5. What is the impact of discounts and promotions on sales?
+- Which Year had the most a-nd least sales?
 
-   6. What is the average profit margin for each product category?
+- Which month had the most- and least sales?
 
-   7. Which sub-category of products has the highest demand?
+- Which state had the mo-st and least sales?
 
-   8. Which Year had the most and least sales?
+- Which states had the m-ost and least profit?
 
-   9. Which month had the most and least sales?
+- Which 3 cities had th-e most and least sales?
 
-   10. Which state had the most and least sales?
+- Which 3 cities h-ad most and least profit?
 
-   11. Which states had the most and least profit?
+- Which region had the most and least sa-les, most and least profit?
 
-   12. Which 3 cities had the most and least sales?
+- How many products are being- sold in which shipping mode?
 
-   13. Which 3 cities had most and least profit?
+- Wat is the order value for each- product category by ship mode?
 
-   14. Which region had the most and least sales, most and least profit?
+ - Which product category -has the highest and least orders?
 
-   15. How many products are being sold in which shipping mode?
+ - Which sub-categor-y has the highest and least orders?
 
-   16. Wat is the order value for each product category by ship mode?
+- Which sub-category has the- highest and lowest profit and sales?
 
-   17. Which product category has the highest and least orders?
+ - How ma-ny customers are there in each segment?
 
-   18. Which sub-category has the highest and least orders?
-
-   19. Which sub-category has the highest and lowest profit and sales?
-
-   20. How many customers are there in each segment?
-
-   21. Which segment had the most and least profit and sales?.
+  - Which segment had the most and least profit and sales?.
