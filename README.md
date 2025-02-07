@@ -2,6 +2,12 @@
 Python project  for DATA Analysis.
 
    1. What are the top selling products in the superstore?
+
+``
+SuperStore = pd.read_excel('Sample - Superstore.xlsx')
+
+SuperStore.head()
+``
    
    2. What is the sales trend over time (monthly, yearly)?
 
